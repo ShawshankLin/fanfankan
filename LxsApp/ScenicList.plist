@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>诗雅</string>
+		<key>article</key>
+		<string>最美不是下雨天，而是与你躲过雨的屋檐</string>
+		<key>headImage</key>
+		<string>avatar01.png</string>
+		<key>articleImage</key>
+		<string>1.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>徐有容</string>
+		<key>article</key>
+		<string>小荷才露尖尖角，早有蜻蜓立上头</string>
+		<key>headImage</key>
+		<string>avatar02.png</string>
+		<key>articleImage</key>
+		<string>2.png</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>花无缺</string>
+		<key>article</key>
+		<string>写下这一段完美的感动，让这一首歌永远留在你我心中，我们曾爱过伤害过的那些女孩</string>
+		<key>headImage</key>
+		<string>avatar01.png</string>
+		<key>articleImage</key>
+		<string>3.png</string>
+	</dict>
+</array>
+</plist>
